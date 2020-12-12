@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Ciao Benvenuto sul nostro sito Web developed by web06studio.com
 permalink: /about
 comments: true
 ---
